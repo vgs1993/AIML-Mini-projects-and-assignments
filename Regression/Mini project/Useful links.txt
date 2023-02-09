@@ -1,0 +1,7 @@
+Link 1 -  https://towardsdatascience.com/gradient-descent-in-python-a0d07285742f (Links to an external site.)Links to an external site.
+
+Link 2 - https://medium.com/coinmonks/implementation-of-gradient-descent-in-python-a43f160ec521 (Links to an external site.)Links to an external site.
+
+ (Links to an external site.)Links to an external site.
+
+Link 3 - https://www.geeksforgeeks.org/ml-mini-batch-gradient-descent-with-python/ (Links to an external site.)
